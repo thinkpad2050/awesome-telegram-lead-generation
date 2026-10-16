@@ -30,8 +30,8 @@ work that channel — ethically and within Telegram's terms of service.
   (semantic search rather than scraping), with lead scoring and CRM export. EN/RU/UK.
 - [LeadScan](https://leadscan.ru) — keyword-monitoring bot that alerts on new messages matching
   your terms across Telegram groups (RU).
-- [OpenSparta](https://opensparta.com/en) - Telegram account and proxy workspace for marketing
-  teams, with audience discovery and AI-assisted contextual comments; access requests are paused.
+- [OpenSparta](https://opensparta.com/en) - Telegram workspace for marketing teams to manage accounts and
+  proxies, discover relevant audiences, and coordinate engagement. New access requests are paused.
 
 ## Developer Libraries & APIs
 
